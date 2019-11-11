@@ -1,4 +1,4 @@
-tap 'caskroom/cask'
+#tap 'caskroom/cask'
 
 cask 'karabiner-elements'
 cask 'hammerspoon'
